@@ -1,0 +1,27 @@
+
+.iconYandex {
+    float: left;
+    height: 20px;
+    width: 20px;
+    background: url('../images/yandexIcon.png') no-repeat center;
+    background-size: contain;
+}
+
+.iconGoogle {
+    float: left;
+    height: 20px;
+    width: 20px;
+    background: url('../images/googleIcon.png') no-repeat center;
+    background-size: contain;
+}
+
+.suggestEl {
+    padding: 4px;
+}
+.suggestEl:hover {
+    background: #dedede;
+}
+
+.selected {
+    background: #dedede;
+}
